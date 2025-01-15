@@ -14,7 +14,6 @@ import { useGlobalContext } from "@/lib/global-provider";
 
 import icons from "@/constants/icons";
 import { settings } from "@/constants/data";
-import Filters from "@/components/Filters";
 
 interface SettingsItemProp {
   icon: ImageSourcePropType;
